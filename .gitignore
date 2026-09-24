@@ -1,0 +1,8 @@
+node_modules/
+api/local.settings.json
+.env
+*.log
+__azurite_db_*
+__blobstorage__/
+__queuestorage__/
+.DS_Store
